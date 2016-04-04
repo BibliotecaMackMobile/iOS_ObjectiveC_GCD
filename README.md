@@ -5,3 +5,4 @@ iOS GCD Demo
     assíncrona.
 
     Criado por Kaê Angeli Coutinho.
+    
