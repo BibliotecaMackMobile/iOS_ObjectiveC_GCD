@@ -1,8 +1,6 @@
-iOS GCD Demo
+# _GCD_
 
-    Um tutorial simples de como se utilizar a biblioteca GCD (Grand Central Dispatch)
-    corretamente para se implementar códigos concorrentes de maneira síncrona e 
-    assíncrona.
+Um tutorial simples de como se utilizar a biblioteca _GCD_ (Grand Central Dispatch) corretamente para se implementar códigos concorrentes de maneira síncrona e assíncrona.
 
-    Criado por Kaê Angeli Coutinho.
+**_Criado por Kaê Angeli Coutinho_**
     
